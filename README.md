@@ -8,8 +8,9 @@ These tutorials can be used in GCP Cloud Shell as an interactive guide. Execute 
 
 ## Content
 
+### Python
+- `python/asset_v1_list_org_folder_project`: list organization, folder and project resources within a GCP Organization
+
 ### Terraform
 - `terraform/gce-cmek.md`: create a compute engine with cmek encrypted boot disk
-
-### Python
 
